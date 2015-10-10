@@ -14,12 +14,13 @@ app/tests/coverage/
 .bower-*/
 .idea/
 coverage/
+node_modules/
 
 # MEAN.js app and assets
 # ======================
 public/dist/
 uploads
-node_modules/
+
 modules/users/client/img/profile/uploads
 config/env/local.js
 *.pem
