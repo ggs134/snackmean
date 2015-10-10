@@ -9,7 +9,6 @@ Thumbs.db
 # ==========================
 .nodemonignore
 .sass-cache/
-node_modules/
 public/lib/
 app/tests/coverage/
 .bower-*/
@@ -20,6 +19,7 @@ coverage/
 # ======================
 public/dist/
 uploads
+node_modules/
 modules/users/client/img/profile/uploads
 config/env/local.js
 *.pem
